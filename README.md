@@ -2,6 +2,10 @@
 
 Yomon So‘zlar Arxivi, o'zbek tilidagi nojo'ya so'zlarni senzuradan o'tkazish uchun mo'ljallangan platforma.
 
+### Disclaimer
+Bu loyihada ko'plab haqoratli so'zlar mavjud bo'lishi mumkin. Ushbu so'zlar faqat o'zbek tilidagi nojo'ya so'zlar ro'yxatidan olingan. Ushbu so'zlar faqat ma'lumotlar olish maqsadida ishlatiladi va ularni ishlatishdan kelib chiqadigan huquqiy javobgarlik sizga tegishli bo'lishi mumkin.
+18 yoshdan kichiklar uchun bu loyiha tavsiya etilmaydi.
+
 ## Maqsad
 Bu loyiha o'zbek tilidagi nojo'ya so'zlarni aniqlash va ularni platformadan olib tashlash maqsadida yaratilgan.
 
