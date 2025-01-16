@@ -14,21 +14,23 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Resources papkasini yaratish
-      - name: Create resources folder
-        run: mkdir -p resources
+      # Resources papkasidagi eski fayllarni o'chirish
+      - name: Clean resources folder
+        run: |
+          mkdir -p resources
+          rm -rf resources/*
 
       # CSV faylni yuklab olish
       - name: Download CSV file
-        run: curl -o resources/data.csv ${{ secrets.CSV_FILE_URL }}
+        run: curl -o resources/bad_words.csv ${{ secrets.CSV_FILE_URL }}
 
       # JSON faylni yuklab olish
       - name: Download JSON file
-        run: curl -o resources/data.json ${{ secrets.JSON_FILE_URL }}
+        run: curl -o resources/bad_words.json ${{ secrets.JSON_FILE_URL }}
 
       # XLSX faylni yuklab olish
       - name: Download XLSX file
-        run: curl -o resources/data.xlsx ${{ secrets.XLSX_FILE_URL }}
+        run: curl -o resources/bad_words.xlsx ${{ secrets.XLSX_FILE_URL }}
 
       # O'zgarishlarni repositoryga qo'shish
       - name: Commit and push changes
@@ -39,4 +41,6 @@ jobs:
             git add resources/*
             git commit -m "Auto-update: $(date +"%Y-%m-%d %H:%M:%S")"
             git push
+          else
+            echo "No changes to commit."
           fi
