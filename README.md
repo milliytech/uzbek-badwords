@@ -27,6 +27,8 @@ Bu loyiha [MIT Litsenziyasi](LICENSE) ostida tarqatiladi.
 ## Aloqa
 Agar sizda savollar yoki takliflar bo'lsa, iltimos, [Telegram](https://t.me/ja_khan_gir) orqali bog'laning.
 
+![image](assets/bad.webp)
+
 ---
 
 **Diqqat**: Bu loyiha hali rivojlanish bosqichida va ba'zi funksiyalar to'liq ishga tushirilmagan bo'lishi mumkin.

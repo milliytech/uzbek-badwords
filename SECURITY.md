@@ -2,11 +2,11 @@
 
 ## Introduction
 
-This document outlines the security processes and policies for the Django Default project. Our goal is to keep the project as secure as possible and to deal promptly with any security issues that arise.
+This document outlines the security processes and policies for the Bad Words project. Our goal is to keep the project as secure as possible and to deal promptly with any security issues that arise.
 
 ## Supported Versions
 
-The following versions of Django Default are currently being supported with security updates:
+The following versions of Bad Words are currently being supported with security updates:
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -15,7 +15,7 @@ The following versions of Django Default are currently being supported with secu
 
 ## Reporting a Vulnerability
 
-If you believe you have found a security vulnerability in Django Default, please report it to us as soon as possible. Do not report security vulnerabilities through public GitHub issues.
+If you believe you have found a security vulnerability in Bad Words, please report it to us as soon as possible. Do not report security vulnerabilities through public GitHub issues.
 
 Please send your report to: jahongirhakimjonov@gmail.com
 
@@ -40,4 +40,4 @@ We will notify users of security updates through:
 
 We would like to thank those who have contributed to the security of the [Project Name] project by reporting vulnerabilities.
 
-Thank you for helping us keep Django Default secure.
+Thank you for helping us keep Bad Words secure.

@@ -1,13 +1,13 @@
-# Contributing to Django Default
+# Contributing to Bad Words
 
-Thank you for your interest in contributing to Django Default! We welcome contributions from everyone, and we are grateful for every contribution made to the project. This document provides guidelines for contributing to Django Default.
+Thank you for your interest in contributing to Bad Words! We welcome contributions from everyone, and we are grateful for every contribution made to the project. This document provides guidelines for contributing to Bad Words.
 
 ## How to Contribute
 
 There are many ways to contribute to our project:
 
 - **Reporting Bugs**: If you find a bug, please report it by opening a new issue. We appreciate detailed reports that help us understand and replicate the issue.
-- **Suggesting Enhancements**: Have an idea to make Django Default better? Open an issue to suggest enhancements. Please provide as much detail and context as possible.
+- **Suggesting Enhancements**: Have an idea to make Bad Words better? Open an issue to suggest enhancements. Please provide as much detail and context as possible.
 - **Pull Requests**: Contributions via pull requests are the best way to propose changes. This could include fixing bugs, adding new features, or updating documentation.
 
 ## Pull Request Process
@@ -35,4 +35,4 @@ Our project adheres to a Code of Conduct that we expect all contributors to foll
 
 If you have any questions or need further clarification about contributing, please open an issue, and we will be happy to help.
 
-Thank you for contributing to Django Default, and we look forward to your contribution!
+Thank you for contributing to Bad Words, and we look forward to your contribution!
