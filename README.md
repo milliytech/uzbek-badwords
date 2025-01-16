@@ -10,10 +10,12 @@ Bu loyiha o'zbek tilidagi nojo'ya so'zlarni aniqlash va ularni platformadan olib
 - [Telegram](https://t.me/jakhangir_blog) - Telegram kanal
 - [Bad](https://bad.milliytech.uz) - Yomon so'zlar platformasi
 - [Bad API](https://api.badwords.milliytech.uz/api/v1/badword/) - Yomon so'zlar platformasi API
+
 **CSV, JSON, XLSX** formatlarida yomon so'zlar ro'yxati
 - [CSV✅](resources/bad_words.csv) - Yomon so'zlar CSV formatda
 - [JSON✅](resources/bad_words.json) - Yomon so'zlar JSON formatda
 - [XLSX✅](resources/bad_words.xlsx) - Yomon so'zlar XLSX formatda
+
 
 ## Qanday foydalanish
 Loyihani ishlatish uchun quyidagi ko'rsatmalarga amal qiling:
