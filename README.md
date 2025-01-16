@@ -19,12 +19,13 @@ Agar loyihaga hissa qo'shmoqchi bo'lsangiz, quyidagi qadamlarni bajaring:
 2. **Branch**: Yangi branch yarating (`git checkout -b feature-branch`).
 3. **O'zgarishlar**: Zaruriy o'zgarishlarni kiriting va commit qiling (`git commit -m 'Add some feature'`).
 4. **Pull Request**: Pull request yarating va loyihaga qo'shing.
+5. **So'z qo'shish**: https://bad.milliytech.uz/ saytiga kirib, so'z qo'shing va u so'z chindan ham yomon so'z deb qoshilsa tez orada platformaga qo'shiladi.
 
 ## Litsenziya
 Bu loyiha [MIT Litsenziyasi](LICENSE) ostida tarqatiladi.
 
 ## Aloqa
-Agar sizda savollar yoki takliflar bo'lsa, iltimos, [email](mailto:jahongirhakimjonov@gmail.com) orqali bog'laning.
+Agar sizda savollar yoki takliflar bo'lsa, iltimos, [Telegram](https://t.me/ja_khan_gir) orqali bog'laning.
 
 ---
 
