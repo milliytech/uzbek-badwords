@@ -22,22 +22,36 @@ jobs:
 
       # CSV faylni yuklab olish
       - name: Download CSV file
-        run: curl -o resources/bad_words.csv ${{ secrets.CSV_FILE_URL }}
+        run: |
+          curl -o resources/bad_words.csv ${{ secrets.CSV_FILE_URL }}
+          if [ ! -s resources/bad_words.csv ]; then
+            echo "CSV file download failed!" && exit 1
+          fi
 
       # JSON faylni yuklab olish
       - name: Download JSON file
-        run: curl -o resources/bad_words.json ${{ secrets.JSON_FILE_URL }}
+        run: |
+          curl -o resources/bad_words.json ${{ secrets.JSON_FILE_URL }}
+          if [ ! -s resources/bad_words.json ]; then
+            echo "JSON file download failed!" && exit 1
+          fi
 
       # XLSX faylni yuklab olish
       - name: Download XLSX file
-        run: curl -o resources/bad_words.xlsx ${{ secrets.XLSX_FILE_URL }}
+        run: |
+          curl -o resources/bad_words.xlsx ${{ secrets.XLSX_FILE_URL }}
+          if [ ! -s resources/bad_words.xlsx ]; then
+            echo "XLSX file download failed!" && exit 1
+          fi
 
       # Remote branchdan o'zgarishlarni olish (pull qilish)
       - name: Pull remote changes
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
+          git stash --include-untracked
           git pull --rebase origin main
+          git stash pop || echo "No stash to apply"
 
       # O'zgarishlarni repositoryga qo'shish
       - name: Commit and push changes
