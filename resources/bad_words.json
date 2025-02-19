@@ -8,14 +8,6 @@
         "word": "Dalbayob"
     },
     {
-        "id": 66,
-        "word": "Daltonik"
-    },
-    {
-        "id": 67,
-        "word": "Daltonikmisan"
-    },
-    {
         "id": 6,
         "word": "Dovdir"
     },
@@ -80,12 +72,28 @@
         "word": "am"
     },
     {
+        "id": 93,
+        "word": "bitch"
+    },
+    {
         "id": 53,
         "word": "blet"
     },
     {
+        "id": 84,
+        "word": "dinnaxuy"
+    },
+    {
         "id": 76,
         "word": "jalab"
+    },
+    {
+        "id": 88,
+        "word": "jalla"
+    },
+    {
+        "id": 89,
+        "word": "jallap"
     },
     {
         "id": 33,
@@ -94,6 +102,10 @@
     {
         "id": 26,
         "word": "kot"
+    },
+    {
+        "id": 83,
+        "word": "nigger"
     },
     {
         "id": 23,
@@ -112,8 +124,20 @@
         "word": "pidaraz"
     },
     {
+        "id": 86,
+        "word": "pizda"
+    },
+    {
         "id": 11,
         "word": "pizdes"
+    },
+    {
+        "id": 92,
+        "word": "qanjiq"
+    },
+    {
+        "id": 85,
+        "word": "qo'toq"
     },
     {
         "id": 28,
@@ -156,6 +180,14 @@
         "word": "ske"
     },
     {
+        "id": 90,
+        "word": "suka"
+    },
+    {
+        "id": 87,
+        "word": "tashsho"
+    },
+    {
         "id": 32,
         "word": "tupoy"
     },
@@ -168,7 +200,15 @@
         "word": "yban"
     },
     {
+        "id": 91,
+        "word": "yebbat"
+    },
+    {
         "id": 14,
         "word": "yetim"
+    },
+    {
+        "id": 94,
+        "word": "yetm"
     }
 ]
