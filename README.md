@@ -1,4 +1,4 @@
-# 🟢Yomon So‘zlar Arxivi - Senzura Qiluvchi Platforma
+# 🟡Yomon So‘zlar Arxivi - Senzura Qiluvchi Platforma
 
 Yomon So‘zlar Arxivi, o'zbek tilidagi nojo'ya so'zlarni senzuradan o'tkazish uchun mo'ljallangan platforma.
 
