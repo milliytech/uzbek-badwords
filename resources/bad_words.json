@@ -4,8 +4,16 @@
         "word": "Ahmoq"
     },
     {
+        "id": 130,
+        "word": "Am"
+    },
+    {
         "id": 3,
         "word": "Dalbayob"
+    },
+    {
+        "id": 127,
+        "word": "Dnx"
     },
     {
         "id": 6,
@@ -14,6 +22,10 @@
     {
         "id": 63,
         "word": "Fuck"
+    },
+    {
+        "id": 152,
+        "word": "Fuck you"
     },
     {
         "id": 29,
@@ -28,6 +40,10 @@
         "word": "Jalab"
     },
     {
+        "id": 151,
+        "word": "Jallap"
+    },
+    {
         "id": 56,
         "word": "Jinni"
     },
@@ -36,12 +52,44 @@
         "word": "Kotinga"
     },
     {
+        "id": 129,
+        "word": "Lox"
+    },
+    {
         "id": 5,
         "word": "Pidaraz"
     },
     {
+        "id": 156,
+        "word": "Pipez"
+    },
+    {
+        "id": 115,
+        "word": "Poxuy"
+    },
+    {
+        "id": 114,
+        "word": "Poxxuy"
+    },
+    {
+        "id": 154,
+        "word": "Pzds"
+    },
+    {
+        "id": 155,
+        "word": "Pzdss"
+    },
+    {
         "id": 25,
         "word": "Qotoqbosh"
+    },
+    {
+        "id": 113,
+        "word": "Sikdim"
+    },
+    {
+        "id": 153,
+        "word": "Ske"
     },
     {
         "id": 4,
@@ -50,6 +98,10 @@
     {
         "id": 64,
         "word": "Xaromi"
+    },
+    {
+        "id": 143,
+        "word": "Ya yebal tebya"
     },
     {
         "id": 15,
@@ -66,6 +118,10 @@
     {
         "id": 78,
         "word": "ahmoq"
+    },
+    {
+        "id": 142,
+        "word": "ahuel"
     },
     {
         "id": 22,
@@ -180,6 +236,10 @@
         "word": "qo'toqbosh"
     },
     {
+        "id": 116,
+        "word": "qotaq"
+    },
+    {
         "id": 72,
         "word": "qotoq"
     },
@@ -198,6 +258,10 @@
     {
         "id": 109,
         "word": "sikay"
+    },
+    {
+        "id": 134,
+        "word": "sike"
     },
     {
         "id": 18,
@@ -228,6 +292,10 @@
         "word": "suka"
     },
     {
+        "id": 119,
+        "word": "sukka"
+    },
+    {
         "id": 87,
         "word": "tashsho"
     },
@@ -236,16 +304,44 @@
         "word": "tupoy"
     },
     {
+        "id": 137,
+        "word": "wtf"
+    },
+    {
         "id": 27,
         "word": "xaromi"
+    },
+    {
+        "id": 140,
+        "word": "xuyeplet"
+    },
+    {
+        "id": 139,
+        "word": "xuyesos"
+    },
+    {
+        "id": 141,
+        "word": "xuyila"
     },
     {
         "id": 19,
         "word": "yban"
     },
     {
+        "id": 148,
+        "word": "yebanashka"
+    },
+    {
         "id": 91,
         "word": "yebbat"
+    },
+    {
+        "id": 145,
+        "word": "yebnu"
+    },
+    {
+        "id": 144,
+        "word": "yebu"
     },
     {
         "id": 14,
