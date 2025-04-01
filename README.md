@@ -58,6 +58,8 @@ Agar sizda savollar yoki takliflar bo'lsa, iltimos, [Telegram](https://t.me/ja_k
 
 ## Endpoints
 
+### SWAGGER URL: `https://api.badwords.milliytech.uz/api/schema/swagger-ui/`
+
 ### BASE_URL = `https://api.badwords.milliytech.uz`
 
 ### 1. List Bad Words
