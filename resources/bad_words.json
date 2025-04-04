@@ -12,6 +12,10 @@
         "word": "Cho'choq"
     },
     {
+        "id": 196,
+        "word": "Dalban"
+    },
+    {
         "id": 3,
         "word": "Dalbayob"
     },
@@ -36,6 +40,18 @@
         "word": "Haromi"
     },
     {
+        "id": 197,
+        "word": "Hunasa"
+    },
+    {
+        "id": 191,
+        "word": "Iflos"
+    },
+    {
+        "id": 192,
+        "word": "Iplos"
+    },
+    {
         "id": 39,
         "word": "Isqirt"
     },
@@ -52,12 +68,24 @@
         "word": "Jinni"
     },
     {
+        "id": 195,
+        "word": "Kot"
+    },
+    {
         "id": 65,
         "word": "Kotinga"
     },
     {
+        "id": 194,
+        "word": "Ko\u02bbt"
+    },
+    {
         "id": 129,
         "word": "Lox"
+    },
+    {
+        "id": 190,
+        "word": "Manjalaqi"
     },
     {
         "id": 5,
@@ -84,6 +112,14 @@
         "word": "Pzdss"
     },
     {
+        "id": 189,
+        "word": "Qanjiq"
+    },
+    {
+        "id": 172,
+        "word": "Qotaqxor"
+    },
+    {
         "id": 169,
         "word": "Qotoq"
     },
@@ -104,12 +140,20 @@
         "word": "Suka"
     },
     {
+        "id": 176,
+        "word": "Tente"
+    },
+    {
         "id": 64,
         "word": "Xaromi"
     },
     {
         "id": 143,
         "word": "Ya yebal tebya"
+    },
+    {
+        "id": 198,
+        "word": "Ybat"
     },
     {
         "id": 15,
@@ -122,6 +166,10 @@
     {
         "id": 2,
         "word": "Yiban"
+    },
+    {
+        "id": 183,
+        "word": "Zaybal"
     },
     {
         "id": 78,
@@ -216,6 +264,10 @@
         "word": "kot"
     },
     {
+        "id": 199,
+        "word": "nigga"
+    },
+    {
         "id": 83,
         "word": "nigger"
     },
@@ -226,6 +278,10 @@
     {
         "id": 96,
         "word": "onangni"
+    },
+    {
+        "id": 184,
+        "word": "oom"
     },
     {
         "id": 12,
