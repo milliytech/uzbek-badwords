@@ -1,42 +1,58 @@
 id,word
 7,Ahmoq
 130,Am
+208,Befarosat
 170,Cho'choq
 196,Dalban
 3,Dalbayob
+238,Dalbayop
 127,Dnx
 6,Dovdir
 63,Fuck
 152,Fuck you
+209,Gandon
 29,Haromi
 197,Hunasa
 191,Iflos
 192,Iplos
 39,Isqirt
 1,Jalab
+214,Jalla
 151,Jallap
 56,Jinni
+205,Jipiriq
 195,Kot
 65,Kotinga
 194,Koʻt
 129,Lox
 190,Manjalaqi
+207,Mol miyya
+212,Om
 5,Pidaraz
 156,Pipez
+213,Pizdes
 115,Poxuy
 114,Poxxuy
 154,Pzds
 155,Pzdss
 189,Qanjiq
+211,Qetoq
 172,Qotaqxor
 169,Qotoq
 25,Qotoqbosh
+210,Qo’toq
+216,Sik
+215,Sikaman
 113,Sikdim
 153,Ske
 4,Suka
+218,Tashoq
+217,Tashshoq
+219,Tashshoq sho’rva
 176,Tente
 64,Xaromi
 143,Ya yebal tebya
+233,Yban
 198,Ybat
 15,Yeban
 62,Yebanutiy
@@ -45,10 +61,13 @@ id,word
 78,ahmoq
 142,ahuel
 22,am
+223,amcha
 108,aminga
+236,basharenga qotogm
 93,bitch
 99,ble
 53,blet
+244,boq
 107,dalbayob
 84,dinnaxuy
 110,fuck
@@ -57,6 +76,8 @@ id,word
 167,gay
 166,gey
 161,gnida
+227,haromi
+203,hunasa
 95,jala
 98,jala ble
 76,jalab
@@ -80,6 +101,7 @@ id,word
 85,qo'toq
 28,qo'toqbosh
 116,qotaq
+234,qoto
 72,qotoq
 31,seks
 71,seksi baby

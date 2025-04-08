@@ -8,6 +8,10 @@
         "word": "Am"
     },
     {
+        "id": 208,
+        "word": "Befarosat"
+    },
+    {
         "id": 170,
         "word": "Cho'choq"
     },
@@ -18,6 +22,10 @@
     {
         "id": 3,
         "word": "Dalbayob"
+    },
+    {
+        "id": 238,
+        "word": "Dalbayop"
     },
     {
         "id": 127,
@@ -34,6 +42,10 @@
     {
         "id": 152,
         "word": "Fuck you"
+    },
+    {
+        "id": 209,
+        "word": "Gandon"
     },
     {
         "id": 29,
@@ -60,12 +72,20 @@
         "word": "Jalab"
     },
     {
+        "id": 214,
+        "word": "Jalla"
+    },
+    {
         "id": 151,
         "word": "Jallap"
     },
     {
         "id": 56,
         "word": "Jinni"
+    },
+    {
+        "id": 205,
+        "word": "Jipiriq"
     },
     {
         "id": 195,
@@ -88,12 +108,24 @@
         "word": "Manjalaqi"
     },
     {
+        "id": 207,
+        "word": "Mol miyya"
+    },
+    {
+        "id": 212,
+        "word": "Om"
+    },
+    {
         "id": 5,
         "word": "Pidaraz"
     },
     {
         "id": 156,
         "word": "Pipez"
+    },
+    {
+        "id": 213,
+        "word": "Pizdes"
     },
     {
         "id": 115,
@@ -116,6 +148,10 @@
         "word": "Qanjiq"
     },
     {
+        "id": 211,
+        "word": "Qetoq"
+    },
+    {
         "id": 172,
         "word": "Qotaqxor"
     },
@@ -126,6 +162,18 @@
     {
         "id": 25,
         "word": "Qotoqbosh"
+    },
+    {
+        "id": 210,
+        "word": "Qo\u2019toq"
+    },
+    {
+        "id": 216,
+        "word": "Sik"
+    },
+    {
+        "id": 215,
+        "word": "Sikaman"
     },
     {
         "id": 113,
@@ -140,6 +188,18 @@
         "word": "Suka"
     },
     {
+        "id": 218,
+        "word": "Tashoq"
+    },
+    {
+        "id": 217,
+        "word": "Tashshoq"
+    },
+    {
+        "id": 219,
+        "word": "Tashshoq sho\u2019rva"
+    },
+    {
         "id": 176,
         "word": "Tente"
     },
@@ -150,6 +210,10 @@
     {
         "id": 143,
         "word": "Ya yebal tebya"
+    },
+    {
+        "id": 233,
+        "word": "Yban"
     },
     {
         "id": 198,
@@ -184,8 +248,16 @@
         "word": "am"
     },
     {
+        "id": 223,
+        "word": "amcha"
+    },
+    {
         "id": 108,
         "word": "aminga"
+    },
+    {
+        "id": 236,
+        "word": "basharenga qotogm"
     },
     {
         "id": 93,
@@ -198,6 +270,10 @@
     {
         "id": 53,
         "word": "blet"
+    },
+    {
+        "id": 244,
+        "word": "boq"
     },
     {
         "id": 107,
@@ -230,6 +306,14 @@
     {
         "id": 161,
         "word": "gnida"
+    },
+    {
+        "id": 227,
+        "word": "haromi"
+    },
+    {
+        "id": 203,
+        "word": "hunasa"
     },
     {
         "id": 95,
@@ -322,6 +406,10 @@
     {
         "id": 116,
         "word": "qotaq"
+    },
+    {
+        "id": 234,
+        "word": "qoto"
     },
     {
         "id": 72,
