@@ -304,8 +304,20 @@
         "word": "boq"
     },
     {
+        "id": 279,
+        "word": "chmo"
+    },
+    {
+        "id": 280,
+        "word": "chumo"
+    },
+    {
         "id": 107,
         "word": "dalbayob"
+    },
+    {
+        "id": 278,
+        "word": "daun"
     },
     {
         "id": 84,
@@ -448,6 +460,10 @@
         "word": "qotoq"
     },
     {
+        "id": 282,
+        "word": "qutoq"
+    },
+    {
         "id": 31,
         "word": "seks"
     },
@@ -544,8 +560,16 @@
         "word": "yban"
     },
     {
+        "id": 281,
+        "word": "yeban"
+    },
+    {
         "id": 148,
         "word": "yebanashka"
+    },
+    {
+        "id": 287,
+        "word": "yebat"
     },
     {
         "id": 91,
@@ -566,5 +590,13 @@
     {
         "id": 94,
         "word": "yetm"
+    },
+    {
+        "id": 277,
+        "word": "yiban"
+    },
+    {
+        "id": 283,
+        "word": "yibanat"
     }
 ]
