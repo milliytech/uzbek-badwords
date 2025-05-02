@@ -22,6 +22,7 @@ Bu loyiha o'zbek tilidagi nojo'ya so'zlarni aniqlash va ularni platformadan olib
 | 1    | [CSV](resources/bad_words.csv)   | CSV     | ✅      |
 | 2    | [JSON](resources/bad_words.json) | JSON    | ✅      |
 | 3    | [XLSX](resources/bad_words.xlsx) | XLSX    | ✅      |
+| 4    | [SQL](resources/bad_words.sql)   | SQL     | ❌      |
 
 
 
