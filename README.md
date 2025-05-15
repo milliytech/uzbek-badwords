@@ -63,7 +63,7 @@ Agar sizda savollar yoki takliflar bo'lsa, iltimos, [Telegram](https://t.me/ja_k
 
 ### BASE_URL = `https://api.badwords.milliytech.uz`
 
-### 1. List Bad Words
+### 1. List Bad Words.
 
 #### `GET /api/v1/badword/`
 
