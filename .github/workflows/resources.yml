@@ -56,7 +56,7 @@ jobs:
       # O'zgarishlarni repositoryga qo'shish
       - name: Commit and push changes
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         run: |
           git add resources/*
           git commit -m "Auto-update: $(date +"%Y-%m-%d %H:%M:%S")" || echo "No changes to commit"
