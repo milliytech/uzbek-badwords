@@ -2,7 +2,10 @@ name: Download and Commit Files
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # every day at 00:00 UTC
+
+permissions:
+  contents: write      # grant the workflow permission to push commits
 
 jobs:
   download_and_commit:
@@ -11,6 +14,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          # Use a PAT if you need cross-repo access, otherwise GITHUB_TOKEN is fine
+          token: ${{ secrets.GH_PAT }}
+          # fetch full history so we can pull and push
+          fetch-depth: 0
 
       - name: Clean resources folder
         run: |
@@ -21,36 +29,41 @@ jobs:
         run: |
           curl -o resources/bad_words.csv "${{ secrets.CSV_FILE_URL }}"
           if [ ! -s resources/bad_words.csv ]; then
-            echo "CSV file download failed!" && exit 1
+            echo "CSV file download failed!" >&2
+            exit 1
           fi
 
       - name: Download JSON file
         run: |
           curl -o resources/bad_words.json "${{ secrets.JSON_FILE_URL }}"
           if [ ! -s resources/bad_words.json ]; then
-            echo "JSON file download failed!" && exit 1
+            echo "JSON file download failed!" >&2
+            exit 1
           fi
 
       - name: Download XLSX file
         run: |
           curl -o resources/bad_words.xlsx "${{ secrets.XLSX_FILE_URL }}"
           if [ ! -s resources/bad_words.xlsx ]; then
-            echo "XLSX file download failed!" && exit 1
+            echo "XLSX file download failed!" >&2
+            exit 1
           fi
 
-      - name: Configure Git
+      - name: Configure Git user
         run: |
-          git config --global user.name "GitHub Actions Bot"
-          git config --global user.email "actions@github.com"
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
 
-      - name: Pull remote changes
+      - name: Commit & push changes
         run: |
-          git pull origin main
-
-      - name: Commit and push changes
+          git add resources/
+          # if nothing to commit, exit zero
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Auto‑update: $(date --utc +'%Y-%m-%d %H:%M:%S') UTC"
+            git push origin HEAD:main
+          fi
         env:
+          # ensure your token has write:packages, contents, etc.
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-        run: |
-          git add resources/*
-          git diff --cached --exit-code || git commit -m "Auto-update: $(date +"%Y-%m-%d %H:%M:%S")"
-          git push "https://${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" HEAD:main
