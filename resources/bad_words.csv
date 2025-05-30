@@ -1,17 +1,21 @@
 id,word,severity
 7,Ahmoq,55
-130,Am,1
-208,Befarosat,1
-170,Cho'choq,1
-196,Dalban,1
-3,Dalbayob,1
-238,Dalbayop,1
-127,Dnx,1
-6,Dovdir,1
+130,Am,82
+321,Amcha,90
+208,Befarosat,47
+319,Blyat,50
+170,Cho'choq,45
+196,Dalban,70
+3,Dalbayob,68
+238,Dalbayop,67
+127,Dnx,65
+6,Dovdir,32
+320,Ey qetoq,95
 272,Foxisha,1
 63,Fuck,1
 152,Fuck you,1
 209,Gandon,1
+296,Gotalak,1
 29,Haromi,1
 197,Hunasa,1
 191,Iflos,1
@@ -22,6 +26,7 @@ id,word,severity
 151,Jallap,1
 56,Jinni,1
 205,Jipiriq,1
+323,Kispurush,30
 195,Kot,1
 65,Kotinga,1
 194,Koʻt,1
@@ -30,6 +35,9 @@ id,word,severity
 271,Maraz,1
 207,Mol miyya,1
 212,Om,1
+318,Onangni sikay,100
+317,Onenei ami,100
+298,Pasholak,1
 5,Pidaraz,1
 295,Pidr,1
 156,Pipez,1
@@ -56,6 +64,7 @@ id,word,severity
 4,Suka,1
 218,Tashoq,1
 217,Tashshoq,1
+316,Tashshoq sho'rva,68
 219,Tashshoq sho’rva,1
 176,Tente,1
 64,Xaromi,1
@@ -102,6 +111,8 @@ id,word,severity
 89,jallap,1
 33,ko't,1
 26,kot,1
+310,lox,40
+293,mol,15
 306,nedagon,1
 199,nigga,1
 83,nigger,1
@@ -124,6 +135,7 @@ id,word,severity
 31,seks,1
 71,seksi baby,1
 13,sex,1
+322,shavqatsiz,5
 109,sikay,1
 134,sike,1
 18,sikish,1

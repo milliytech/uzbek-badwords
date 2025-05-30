@@ -7,42 +7,57 @@
     {
         "id": 130,
         "word": "Am",
-        "severity": 1
+        "severity": 82
+    },
+    {
+        "id": 321,
+        "word": "Amcha",
+        "severity": 90
     },
     {
         "id": 208,
         "word": "Befarosat",
-        "severity": 1
+        "severity": 47
+    },
+    {
+        "id": 319,
+        "word": "Blyat",
+        "severity": 50
     },
     {
         "id": 170,
         "word": "Cho'choq",
-        "severity": 1
+        "severity": 45
     },
     {
         "id": 196,
         "word": "Dalban",
-        "severity": 1
+        "severity": 70
     },
     {
         "id": 3,
         "word": "Dalbayob",
-        "severity": 1
+        "severity": 68
     },
     {
         "id": 238,
         "word": "Dalbayop",
-        "severity": 1
+        "severity": 67
     },
     {
         "id": 127,
         "word": "Dnx",
-        "severity": 1
+        "severity": 65
     },
     {
         "id": 6,
         "word": "Dovdir",
-        "severity": 1
+        "severity": 32
+    },
+    {
+        "id": 320,
+        "word": "Ey qetoq",
+        "severity": 95
     },
     {
         "id": 272,
@@ -62,6 +77,11 @@
     {
         "id": 209,
         "word": "Gandon",
+        "severity": 1
+    },
+    {
+        "id": 296,
+        "word": "Gotalak",
         "severity": 1
     },
     {
@@ -115,6 +135,11 @@
         "severity": 1
     },
     {
+        "id": 323,
+        "word": "Kispurush",
+        "severity": 30
+    },
+    {
         "id": 195,
         "word": "Kot",
         "severity": 1
@@ -152,6 +177,21 @@
     {
         "id": 212,
         "word": "Om",
+        "severity": 1
+    },
+    {
+        "id": 318,
+        "word": "Onangni sikay",
+        "severity": 100
+    },
+    {
+        "id": 317,
+        "word": "Onenei ami",
+        "severity": 100
+    },
+    {
+        "id": 298,
+        "word": "Pasholak",
         "severity": 1
     },
     {
@@ -283,6 +323,11 @@
         "id": 217,
         "word": "Tashshoq",
         "severity": 1
+    },
+    {
+        "id": 316,
+        "word": "Tashshoq sho'rva",
+        "severity": 68
     },
     {
         "id": 219,
@@ -515,6 +560,16 @@
         "severity": 1
     },
     {
+        "id": 310,
+        "word": "lox",
+        "severity": 40
+    },
+    {
+        "id": 293,
+        "word": "mol",
+        "severity": 15
+    },
+    {
         "id": 306,
         "word": "nedagon",
         "severity": 1
@@ -623,6 +678,11 @@
         "id": 13,
         "word": "sex",
         "severity": 1
+    },
+    {
+        "id": 322,
+        "word": "shavqatsiz",
+        "severity": 5
     },
     {
         "id": 109,
