@@ -27,6 +27,7 @@ id,word,severity
 56,Jinni,1
 205,Jipiriq,1
 323,Kispurush,30
+326,Ko't,35
 195,Kot,1
 65,Kotinga,1
 194,Koʻt,1
@@ -44,6 +45,7 @@ id,word,severity
 213,Pizdes,1
 115,Poxuy,1
 114,Poxxuy,1
+325,Pzdc,80
 154,Pzds,1
 155,Pzdss,1
 269,Qanchiq,1
@@ -94,6 +96,7 @@ id,word,severity
 278,daun,1
 84,dinnaxuy,1
 110,fuck,1
+324,fuck off,75
 111,fucking,1
 160,gandon,1
 167,gay,1
@@ -118,6 +121,7 @@ id,word,severity
 83,nigger,1
 23,om,1
 96,onangni,1
+327,onangni ami,100
 184,oom,1
 12,p1zdes,1
 75,pidaras,1

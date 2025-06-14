@@ -140,6 +140,11 @@
         "severity": 30
     },
     {
+        "id": 326,
+        "word": "Ko't",
+        "severity": 35
+    },
+    {
         "id": 195,
         "word": "Kot",
         "severity": 1
@@ -223,6 +228,11 @@
         "id": 114,
         "word": "Poxxuy",
         "severity": 1
+    },
+    {
+        "id": 325,
+        "word": "Pzdc",
+        "severity": 80
     },
     {
         "id": 154,
@@ -475,6 +485,11 @@
         "severity": 1
     },
     {
+        "id": 324,
+        "word": "fuck off",
+        "severity": 75
+    },
+    {
         "id": 111,
         "word": "fucking",
         "severity": 1
@@ -593,6 +608,11 @@
         "id": 96,
         "word": "onangni",
         "severity": 1
+    },
+    {
+        "id": 327,
+        "word": "onangni ami",
+        "severity": 100
     },
     {
         "id": 184,
