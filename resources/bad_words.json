@@ -420,6 +420,11 @@
         "severity": 1
     },
     {
+        "id": 330,
+        "word": "bich",
+        "severity": 50
+    },
+    {
         "id": 93,
         "word": "bitch",
         "severity": 1
@@ -523,6 +528,11 @@
         "id": 203,
         "word": "hunasa",
         "severity": 1
+    },
+    {
+        "id": 331,
+        "word": "it",
+        "severity": 10
     },
     {
         "id": 260,
