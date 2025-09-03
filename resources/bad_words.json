@@ -25,6 +25,11 @@
         "severity": 50
     },
     {
+        "id": 340,
+        "word": "Buvini ami",
+        "severity": 81
+    },
+    {
         "id": 170,
         "word": "Cho'choq",
         "severity": 45
@@ -120,6 +125,11 @@
         "severity": 1
     },
     {
+        "id": 345,
+        "word": "Jallab",
+        "severity": 36
+    },
+    {
         "id": 151,
         "word": "Jallap",
         "severity": 1
@@ -192,6 +202,11 @@
     {
         "id": 317,
         "word": "Onenei ami",
+        "severity": 100
+    },
+    {
+        "id": 339,
+        "word": "Opangni omiga ske",
         "severity": 100
     },
     {
@@ -405,6 +420,11 @@
         "severity": 1
     },
     {
+        "id": 329,
+        "word": "ambaliq",
+        "severity": 5
+    },
+    {
         "id": 223,
         "word": "amcha",
         "severity": 1
@@ -530,6 +550,11 @@
         "severity": 1
     },
     {
+        "id": 334,
+        "word": "idi naxuy",
+        "severity": 90
+    },
+    {
         "id": 331,
         "word": "it",
         "severity": 10
@@ -625,6 +650,11 @@
         "severity": 100
     },
     {
+        "id": 341,
+        "word": "onangni sikay",
+        "severity": 50
+    },
+    {
         "id": 184,
         "word": "oom",
         "severity": 1
@@ -633,6 +663,11 @@
         "id": 12,
         "word": "p1zdes",
         "severity": 1
+    },
+    {
+        "id": 333,
+        "word": "pashol na xuy",
+        "severity": 100
     },
     {
         "id": 75,
