@@ -55,14 +55,17 @@ id,word,severity
 270,Qanciq,1
 189,Qanjiq,1
 211,Qetoq,1
+358,Qo'taq,100
 172,Qotaqxor,1
 257,Qoto,1
 169,Qotoq,1
 25,Qotoqbosh,1
 210,Qo’toq,1
+351,Seks,54
 302,Sen qishloqlisan,1
 216,Sik,1
 215,Sikaman,1
+352,Sikay,54
 113,Sikdim,1
 153,Ske,1
 297,Suchka,1
@@ -86,6 +89,8 @@ id,word,severity
 329,ambaliq,5
 223,amcha,1
 108,aminga,1
+349,amingga ske,97
+360,axmoq,50
 236,basharenga qotogm,1
 330,bich,50
 93,bitch,1
@@ -104,12 +109,14 @@ id,word,severity
 324,fuck off,75
 111,fucking,1
 160,gandon,1
+361,garang,50
 167,gay,1
 166,gey,1
 161,gnida,1
 227,haromi,1
 203,hunasa,1
 334,idi naxuy,90
+357,iflos,48
 331,it,10
 260,itbet,1
 95,jala,1
@@ -131,6 +138,7 @@ id,word,severity
 327,onangni ami,100
 341,onangni sikay,50
 184,oom,1
+363,oʻl,50
 12,p1zdes,1
 333,pashol na xuy,100
 75,pidaras,1
@@ -148,6 +156,7 @@ id,word,severity
 31,seks,1
 71,seksi baby,1
 13,sex,1
+348,sexy woman,75
 322,shavqatsiz,5
 109,sikay,1
 134,sike,1
@@ -174,6 +183,7 @@ id,word,severity
 148,yebanashka,1
 287,yebat,1
 91,yebbat,1
+364,yeblan,44
 145,yebnu,1
 144,yebu,1
 14,yetim,1

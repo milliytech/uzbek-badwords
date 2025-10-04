@@ -280,6 +280,11 @@
         "severity": 1
     },
     {
+        "id": 358,
+        "word": "Qo'taq",
+        "severity": 100
+    },
+    {
         "id": 172,
         "word": "Qotaqxor",
         "severity": 1
@@ -305,6 +310,11 @@
         "severity": 1
     },
     {
+        "id": 351,
+        "word": "Seks",
+        "severity": 54
+    },
+    {
         "id": 302,
         "word": "Sen qishloqlisan",
         "severity": 1
@@ -318,6 +328,11 @@
         "id": 215,
         "word": "Sikaman",
         "severity": 1
+    },
+    {
+        "id": 352,
+        "word": "Sikay",
+        "severity": 54
     },
     {
         "id": 113,
@@ -435,6 +450,16 @@
         "severity": 1
     },
     {
+        "id": 349,
+        "word": "amingga ske",
+        "severity": 97
+    },
+    {
+        "id": 360,
+        "word": "axmoq",
+        "severity": 50
+    },
+    {
         "id": 236,
         "word": "basharenga qotogm",
         "severity": 1
@@ -525,6 +550,11 @@
         "severity": 1
     },
     {
+        "id": 361,
+        "word": "garang",
+        "severity": 50
+    },
+    {
         "id": 167,
         "word": "gay",
         "severity": 1
@@ -553,6 +583,11 @@
         "id": 334,
         "word": "idi naxuy",
         "severity": 90
+    },
+    {
+        "id": 357,
+        "word": "iflos",
+        "severity": 48
     },
     {
         "id": 331,
@@ -660,6 +695,11 @@
         "severity": 1
     },
     {
+        "id": 363,
+        "word": "o\u02bbl",
+        "severity": 50
+    },
+    {
         "id": 12,
         "word": "p1zdes",
         "severity": 1
@@ -743,6 +783,11 @@
         "id": 13,
         "word": "sex",
         "severity": 1
+    },
+    {
+        "id": 348,
+        "word": "sexy woman",
+        "severity": 75
     },
     {
         "id": 322,
@@ -873,6 +918,11 @@
         "id": 91,
         "word": "yebbat",
         "severity": 1
+    },
+    {
+        "id": 364,
+        "word": "yeblan",
+        "severity": 44
     },
     {
         "id": 145,
