@@ -120,6 +120,11 @@
         "severity": 1
     },
     {
+        "id": 367,
+        "word": "Jalap",
+        "severity": 85
+    },
+    {
         "id": 214,
         "word": "Jalla",
         "severity": 1
@@ -635,6 +640,11 @@
         "severity": 1
     },
     {
+        "id": 366,
+        "word": "kashanda",
+        "severity": 25
+    },
+    {
         "id": 33,
         "word": "ko't",
         "severity": 1
@@ -688,6 +698,11 @@
         "id": 341,
         "word": "onangni sikay",
         "severity": 50
+    },
+    {
+        "id": 365,
+        "word": "oneni ami",
+        "severity": 100
     },
     {
         "id": 184,

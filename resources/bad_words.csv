@@ -23,6 +23,7 @@ id,word,severity
 192,Iplos,1
 39,Isqirt,1
 1,Jalab,1
+367,Jalap,85
 214,Jalla,1
 345,Jallab,36
 151,Jallap,1
@@ -126,6 +127,7 @@ id,word,severity
 158,jalap,1
 88,jalla,1
 89,jallap,1
+366,kashanda,25
 33,ko't,1
 26,kot,1
 310,lox,40
@@ -137,6 +139,7 @@ id,word,severity
 96,onangni,1
 327,onangni ami,100
 341,onangni sikay,50
+365,oneni ami,100
 184,oom,1
 363,oʻl,50
 12,p1zdes,1
