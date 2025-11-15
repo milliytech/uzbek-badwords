@@ -510,6 +510,11 @@
         "severity": 1
     },
     {
+        "id": 368,
+        "word": "cho'choq",
+        "severity": 50
+    },
+    {
         "id": 280,
         "word": "chumo",
         "severity": 1
