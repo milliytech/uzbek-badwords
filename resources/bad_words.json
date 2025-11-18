@@ -345,6 +345,11 @@
         "severity": 1
     },
     {
+        "id": 371,
+        "word": "Skay",
+        "severity": 96
+    },
+    {
         "id": 153,
         "word": "Ske",
         "severity": 1
@@ -415,9 +420,19 @@
         "severity": 1
     },
     {
+        "id": 373,
+        "word": "Yebat",
+        "severity": 83
+    },
+    {
         "id": 2,
         "word": "Yiban",
         "severity": 1
+    },
+    {
+        "id": 372,
+        "word": "Yobbana",
+        "severity": 50
     },
     {
         "id": 183,
@@ -523,6 +538,11 @@
         "id": 305,
         "word": "dabba",
         "severity": 1
+    },
+    {
+        "id": 370,
+        "word": "dalban",
+        "severity": 50
     },
     {
         "id": 107,
@@ -643,6 +663,11 @@
         "id": 89,
         "word": "jallap",
         "severity": 1
+    },
+    {
+        "id": 374,
+        "word": "jentra miyya",
+        "severity": 50
     },
     {
         "id": 366,
