@@ -103,6 +103,8 @@ id,word,severity
 261,bo'qidish,1
 262,bo'qkalla,1
 244,boq,1
+9,buvini ami,100
+10,buvini amiga ske,100
 279,chmo,1
 368,cho'choq,50
 280,chumo,1
@@ -111,6 +113,7 @@ id,word,severity
 107,dalbayob,1
 278,daun,1
 84,dinnaxuy,1
+8,foxisha qanchiq,79
 110,fuck,1
 324,fuck off,75
 111,fucking,1

@@ -520,6 +520,16 @@
         "severity": 1
     },
     {
+        "id": 9,
+        "word": "buvini ami",
+        "severity": 100
+    },
+    {
+        "id": 10,
+        "word": "buvini amiga ske",
+        "severity": 100
+    },
+    {
         "id": 279,
         "word": "chmo",
         "severity": 1
@@ -558,6 +568,11 @@
         "id": 84,
         "word": "dinnaxuy",
         "severity": 1
+    },
+    {
+        "id": 8,
+        "word": "foxisha qanchiq",
+        "severity": 79
     },
     {
         "id": 110,
