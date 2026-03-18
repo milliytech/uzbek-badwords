@@ -475,6 +475,11 @@
         "severity": 97
     },
     {
+        "id": 16,
+        "word": "ammisan",
+        "severity": 93
+    },
+    {
         "id": 360,
         "word": "axmoq",
         "severity": 50
@@ -503,6 +508,11 @@
         "id": 53,
         "word": "blet",
         "severity": 1
+    },
+    {
+        "id": 30,
+        "word": "blyat",
+        "severity": 50
     },
     {
         "id": 261,
@@ -682,6 +692,11 @@
     {
         "id": 374,
         "word": "jentra miyya",
+        "severity": 50
+    },
+    {
+        "id": 24,
+        "word": "jinni",
         "severity": 50
     },
     {
