@@ -78,6 +78,7 @@ id,word,severity
 316,Tashshoq sho'rva,68
 219,Tashshoq sho’rva,1
 176,Tente,1
+34,Totaq,2
 64,Xaromi,1
 143,Ya yebal tebya,1
 233,Yban,1
@@ -108,6 +109,7 @@ id,word,severity
 244,boq,1
 9,buvini ami,100
 10,buvini amiga ske,100
+38,chichqoq,76
 279,chmo,1
 368,cho'choq,50
 280,chumo,1
@@ -129,6 +131,7 @@ id,word,severity
 203,hunasa,1
 334,idi naxuy,90
 357,iflos,48
+46,iprisqi,50
 331,it,10
 260,itbet,1
 95,jala,1
@@ -206,4 +209,5 @@ id,word,severity
 14,yetim,1
 94,yetm,1
 277,yiban,1
+44,yiban dalbayob,100
 283,yibanat,1

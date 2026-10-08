@@ -395,6 +395,11 @@
         "severity": 1
     },
     {
+        "id": 34,
+        "word": "Totaq",
+        "severity": 2
+    },
+    {
         "id": 64,
         "word": "Xaromi",
         "severity": 1
@@ -545,6 +550,11 @@
         "severity": 100
     },
     {
+        "id": 38,
+        "word": "chichqoq",
+        "severity": 76
+    },
+    {
         "id": 279,
         "word": "chmo",
         "severity": 1
@@ -648,6 +658,11 @@
         "id": 357,
         "word": "iflos",
         "severity": 48
+    },
+    {
+        "id": 46,
+        "word": "iprisqi",
+        "severity": 50
     },
     {
         "id": 331,
@@ -1033,6 +1048,11 @@
         "id": 277,
         "word": "yiban",
         "severity": 1
+    },
+    {
+        "id": 44,
+        "word": "yiban dalbayob",
+        "severity": 100
     },
     {
         "id": 283,
